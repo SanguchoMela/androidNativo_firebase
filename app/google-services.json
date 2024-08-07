@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421671819731",
+    "project_id": "android-nativo-ejemplo",
+    "storage_bucket": "android-nativo-ejemplo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421671819731:android:df256c72d91692cebc7726",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcd2CjUPNyTaztpp8anvaix4cfCMqfX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
